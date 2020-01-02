@@ -1,0 +1,9 @@
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\bin\Debug\domaingenerator.exe
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\bin\Debug\domaingenerator.pdb
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.csprojResolveAssemblyReference.cache
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.Form1.resources
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.Properties.Resources.resources
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.csproj.GenerateResource.Cache
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.csproj.CoreCompileInputs.cache
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.exe
+C:\_sync\projects\vs2017\domaingenerator\domaingenerator\obj\Debug\domaingenerator.pdb
